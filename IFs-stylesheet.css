@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Ubuntu:wght@500&display=swap');
+
+body {
+ background-image: url("/Users/davidwilson/Desktop/ART338_html-css/Studio-website_SKELETON-HTML-CSS/IFs_studio_website/media/index-GIF2.gif");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+div.title {
+  font-family: 'Ubuntu';
+  color: white;
+  font-size: 37.5px;
+  border: solid;
+  border-color: white;
+  width: 465px;
+}
+
+div.subtitle {
+  font-family: 'Oxygen';
+  color: white;
+  font-size: 20px;
+  left: 183px;
+  border: solid;
+  border-color: green;
+}
+
+div.menu {
+  position: relative;
+  left: 193px;
+  font-family: 'Oxygen';
+  background-color: white;
+  color: purple;
+  border: solid;
+  border-color: white;
+  width: 272px;
+}
+
+div.index-description {
+  font-family: 'Oxygen';
+  color: white;
+  background-color: red;
+  width: 400px;
+  font-size: 20px;
+  border: solid;
+  border-color: pink;
+}
+
+div.stu-container {
+  width: 1050px;
+  border: solid;
+  border-color: orange;
+
+}
+
+div.student {
+	  vertical-align: top;
+	  display: inline-block;
+	  /*left: auto; added this*/
+	  margin: 10px;
+	  width: 295px;
+    height: auto;
+	  text-align: left;
+	  font-family: 'Oxygen';
+	  font-size: 14px;
+    background-color: white;
+    color: white;
+    padding: 10px;
+}
+
+div.about {
+  position: relative;
+  left: 193px;
+  font-family: 'Oxygen';
+  color: purple;
+  background-color: white;
+  width: 272px;
+  font-size: 15px;
+  border: solid;
+  border-color: white;
+}
+
+div.research {
+  position: relative;
+  font-family: 'Oxygen';
+  color: purple;
+  background-color: white;
+  width: 465px;
+  font-size: 15px;
+  border: solid;
+  border-color: white;
+}
+
+div.examples {
+  vertical-align: top;
+  display: inline-block;
+  /*left: auto; added this*/
+  margin: 10px;
+  width: 510px;
+  height: auto;
+  background-color: white;
+  color: white;
+  padding: 10px;
+}
+
+
+body {
+  background-color: purple;
+}
+
+mark.one {
+  color: red;
+  background-color: white;
+}
+
+mark.two {
+  color: white;
+  background-color: purple;
+}
+
+mark.three {
+  color: white;
+  background-color: green;
+}
+
+mark.current {
+  color: white;
+  background-color: purple;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+
+a:link {
+  text-decoration: none;
+  color: purple;
+}
+
+a:link.two {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+img {
+  object-fit: cover;
+}
+
+img.one {
+  width: 290px;
+  height: 290px;
+  border: solid 1px;
+  border-color: grey;
+}
+
+img.two {
+  width: 100px;
+  height: 100px;
+  padding: 0px;
+  margin: 0px;
+}
+
+img.three {
+  width: 500px;
+  height: 500px;
+  padding: 0px;
+  margin: 0px;
+  border: solid 1px;
+  border-color: purple;
+}
