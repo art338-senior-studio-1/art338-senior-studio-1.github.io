@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+HELLO WORLD !!!! 
+
 <!--
 **art338-senior-studio-1/art338-senior-studio-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
