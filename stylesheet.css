@@ -105,6 +105,13 @@ div.examples {
   padding: 10px;
 }
 
+/*amanda page text style*/
+div.Atext {
+  margin: 10px;
+  font-family: 'Oxygen';
+  color: white;
+  width: 600px;
+}
 
 body {
   background-color: purple;
@@ -182,3 +189,32 @@ img.three {
   border: solid 1px;
   border-color: purple;
 }
+
+/* amanda image styles */
+img.amanda1 {
+  width: 773px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
+
+img.amanda2 {
+  width: 889px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
+
+img.amanda3 {
+  width: 500px;
+  height: 500px;
+  padding: 4px;
+  margin: 0px;
+  border: solid 1px;
+  border-color: purple;
+}
+/* end of amanda image styles*/
