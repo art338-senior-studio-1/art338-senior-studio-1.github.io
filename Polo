@@ -1,0 +1,43 @@
+<html>
+
+<head>
+  <title>ART 338 BFA Senior Studio | Students | Polo Figueroa</title>
+  <link rel="stylesheet" href="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/IFs-stylesheet.css">
+
+</head>
+
+<body>
+<a href="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/index.html"><div class="title">ART 338 BFA Senior Studio</div></a>
+<!--<div class="subtitle"> <mark class="one"> Fall 2021 | Illinois State University | Wonsook Kim School of Art </mark></div>-->
+
+<div class="menu">
+<ul>
+  <li><a href="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/about.html">About</a></li> |
+  <li><a href="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/research.html">Research</a></li> |
+  <li><a href="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/students.html"><mark class="current">Students</mark></a></li> |
+  <li><a href="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/contact.html">Contact</a></li>
+</ul>
+</div>
+<div class="about" style="text-align: center;">
+ <p><mark class="three">polo figueroa</mark></div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Burnedout.png"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/GroupIdeation-SPEC.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Ideation-ECOSPEC.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Ideation-SPEC.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/PlasticBag.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/PlasticJacket-Back.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/PlasticJacketFront.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/PlasticSleeve.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/PlasticSleeve2.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Portfolio-Resume_Zine12.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Portfolio-Resume_Zine14.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Slide2-ECO.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Slide5-ECO.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Taxonomy.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/Images/Taxonomy2.jpg"> </div>
+<div class="examples"> <img class="three" src="/Users/polo/Desktop/0_ART338_WEBSITE_SOURCE/media/0_polo/hero/UNPERSON-POSTER-01.png"> </div>
+
+
+
+</body>
+ </html>
