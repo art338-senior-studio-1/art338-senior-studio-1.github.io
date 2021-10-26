@@ -229,3 +229,35 @@ img.amanda3 {
   border-color: purple;
 }
 /* end of amanda styling*/
+
+/* JACOB styling*/
+
+div.Jtext {
+  margin: 10px;
+  font-family: 'Futura';
+  color: white;
+  width: 600px;
+  text-align: center;
+}
+
+div.jacobexamples {
+  margin: 2px;
+  padding: 2px;
+  width: auto;
+  height: auto;
+  vertical-align: top;
+  display: inline-block;
+  background-color: grey;
+  color: white;
+  align-content: center;
+}
+
+img.jacob {
+  width: 486px;
+  height: 364px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 2px;
+  border-color: orange;
+}
+/* end of JACOB styling*/
