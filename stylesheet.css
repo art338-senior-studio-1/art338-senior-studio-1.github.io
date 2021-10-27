@@ -310,3 +310,10 @@ div.Ptext {
 	padding: 50px;
 }
 
+/* Start of Megans Styling */
+div.Atext {
+  margin: 10px;
+  font-family: 'Oxygen';
+  color: white;
+  width: 600px;
+}
