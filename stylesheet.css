@@ -324,16 +324,16 @@ div.meganexamples {
   display: inline-block;
   /*left: auto; added this*/
   margin: 10px;
-  width: 500px;
-  height: 500px;
+  width: auto;
+  height: auto;
   background-color: white;
   color: white;
   padding: 10px;
 }
 
 img.megan1 {
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
   padding: 4px;
   margin: 4px;
   border: solid 1px;
