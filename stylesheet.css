@@ -272,15 +272,15 @@ div.Ctext {
 }
 
 div.cassianexamples {
-  margin: 2px;
-  padding: 2px;
+  margin: 4px;
+  padding: 4px;
   width: auto;
   height: auto;
   vertical-align: top;
   display: inline-block;
-  background-color: grey;
+  background-color: white;
   color: white;
-  align-content: center;
+ 
 }
 
 img.cassian1 {
