@@ -305,6 +305,7 @@ img.cassian2 {
 /* Start of Polo's styling*/
 
 div.Ptext {
+	text-align: right;
 	color: white;
 	margin-right: 25px;
 	margin-left: 300px;
