@@ -323,8 +323,8 @@ div.meganexamples {
   display: inline-block;
   /*left: auto; added this*/
   margin: 10px;
-  width: auto;
-  height: auto;
+  width: 500px;
+  height: 500px;
   background-color: white;
   color: white;
   padding: 10px;
