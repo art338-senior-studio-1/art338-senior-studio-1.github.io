@@ -318,7 +318,6 @@ div.Mtext {
   color: white;
   width: 600px;
 }
-
 div.meganexamples {
   vertical-align: top;
   display: inline-block;
@@ -331,11 +330,12 @@ div.meganexamples {
   padding: 10px;
 }
 
-img.megan1 {
+img.mega1 {
   width: 400px;
   height: 400px;
   padding: 4px;
   margin: 4px;
   border: solid 1px;
-  border-color: white;
+  border-color: purple;
 }
+
