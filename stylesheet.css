@@ -283,7 +283,16 @@ div.cassianexamples {
   align-content: center;
 }
 
-img.cassian {
+img.cassian1 {
+  width: 1224px;
+  height: 792px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 2px;
+  border-color: orange;
+}
+
+img.cassian2 {
   width: 486px;
   height: 364px;
   padding: 4px;
