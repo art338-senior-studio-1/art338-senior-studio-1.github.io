@@ -317,3 +317,24 @@ div.Mtext {
   color: white;
   width: 600px;
 }
+
+div.meganexamples {
+  vertical-align: top;
+  display: inline-block;
+  /*left: auto; added this*/
+  margin: 10px;
+  width: auto;
+  height: auto;
+  background-color: white;
+  color: white;
+  padding: 10px;
+}
+
+img.megan1 {
+  width: 773px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
