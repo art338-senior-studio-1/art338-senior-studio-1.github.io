@@ -340,3 +340,16 @@ img.megan1 {
   border: solid 1px;
   border-color: white;
 }
+
+
+/* responsive styling for mobile */
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: purple;
+  }
+}
+
+
+
+
+
