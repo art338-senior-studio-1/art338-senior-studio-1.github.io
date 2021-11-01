@@ -308,19 +308,23 @@ img.cassian2 {
 div.Ptext {
 	text-align: right;
 	color: white;
+	margin-top: 25px;
+	margin-bottom: 25px;
 	margin-right: 25px;
 	margin-left: 300px;
 	border: solid;
-  border-color: white;
+  	border-color: white;
 }
 
 div.Ptext2 {
 	text-align: left;
 	color: white;
+	margin-top: 25px;
+	margin-bottom: 25px;
 	margin-right: 300px;
 	margin-left: 25px;
 	border: solid;
-  border-color: white;
+  	border-color: white;
 }
 
 /* Start of Megans Styling */
