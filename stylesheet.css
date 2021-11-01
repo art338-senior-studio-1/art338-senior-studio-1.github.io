@@ -312,6 +312,13 @@ div.Ptext {
 	margin-left: 300px;
 }
 
+div.Ptext2 {
+	text-align: left;
+	color: white;
+	margin-right: 25px;
+	margin-left: 300px;
+}
+
 /* Start of Megans Styling */
 div.Mtext {
   margin: 10px;
