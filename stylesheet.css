@@ -346,7 +346,7 @@ img.megan1 {
 @media only screen and (max-width: 600px) {
   body {
     background-image: none !important;	  
-    background-color: red !important;
+    background-color: purple !important;
   }
 }
 
