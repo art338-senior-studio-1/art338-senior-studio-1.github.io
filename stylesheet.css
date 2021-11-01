@@ -353,12 +353,17 @@ img.megan1 {
 }
 
 
-/* responsive styling for mobile */
+/* responsive styling for mobile browsing */
+
+/* when screen is 600px or less apply changes */
 @media only screen and (max-width: 600px) {
+  
+  /* remove .gif background set background color to purple */
   body {
     background-image: none !important;	  
     background-color: purple !important;
   }
+	
 }
 
 
