@@ -345,6 +345,7 @@ img.megan1 {
 /* responsive styling for mobile */
 @media only screen and (max-width: 500px) {
   body {
+    background-image: none !important;	  
     background-color: red !important;
   }
 }
