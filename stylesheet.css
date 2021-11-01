@@ -310,6 +310,8 @@ div.Ptext {
 	color: white;
 	margin-right: 25px;
 	margin-left: 300px;
+	border: solid;
+  border-color: white;
 }
 
 div.Ptext2 {
@@ -317,6 +319,8 @@ div.Ptext2 {
 	color: white;
 	margin-right: 300px;
 	margin-left: 25px;
+	border: solid;
+  border-color: white;
 }
 
 /* Start of Megans Styling */
