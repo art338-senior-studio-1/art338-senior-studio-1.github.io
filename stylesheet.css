@@ -229,6 +229,15 @@ img.amanda3 {
   border: solid 1px;
   border-color: purple;
 }
+
+img.amanda4 {
+  width: 1182px;
+  height: 500px;
+  padding: 4px;
+  margin: 0px;
+  border: solid 1px;
+  border-color: purple;
+}
 /* end of amanda styling*/
 
 /* JACOB styling*/
