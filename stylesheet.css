@@ -352,6 +352,9 @@ img.megan1 {
   height: 500px;
   padding: 4px;
   margin: 4px;
+	background-color: white;
+  color: white;
+  padding: 10px;
   border: solid 1px;
   border-color: purple;
 }
@@ -361,6 +364,9 @@ img.megan2 {
   height: 500px;
   padding: 4px;
   margin: 4px;
+	background-color: white;
+  color: white;
+  padding: 10px;
   border: solid 1px;
   border-color: purple;
 }
