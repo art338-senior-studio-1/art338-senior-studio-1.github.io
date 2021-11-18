@@ -385,17 +385,7 @@ div.Etext {
   width: 600px;
 }
 
-img.erica1 {
-  vertical-align: top;
-  display: inline-block;
-  /*left: auto; added this*/
-  margin: 10px;
-  width: auto;
-  height: auto;
-  background-color: white;
-  color: white;
-  padding: 10px;
-}
+
 
 /* responsive styling for mobile browsing */
 
