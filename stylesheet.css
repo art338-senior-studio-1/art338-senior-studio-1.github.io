@@ -377,6 +377,13 @@ img.megan2 {
   border-color: purple;
 }
 
+/* Erica's Styling */
+div.Etext {
+  margin: 10px;
+  font-family: 'M PLUS Rounded 1c';
+  color: white;
+  width: 800px;
+}
 
 /* responsive styling for mobile browsing */
 
