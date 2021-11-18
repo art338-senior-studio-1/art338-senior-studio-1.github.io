@@ -386,13 +386,10 @@ div.Etext {
 }
 
 img.erica1 {
-  width: 500px;
-  height: 500px;
-  padding: 4px;
-  margin: 4px;
-	background-color: white;
-  color: white;
-  padding: 10px;
+  width: 510px;
+  height: 510px;
+  object-fit: contain;
+  background-color: white;
   border: solid 1px;
   border-color: purple;
 }
