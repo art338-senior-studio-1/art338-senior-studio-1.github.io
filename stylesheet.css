@@ -407,6 +407,7 @@ img.img-erica {
   border-color: purple;
 }
 
+/* christian styling */
 
 div.CLtext {
   margin: 10px;
@@ -416,7 +417,7 @@ div.CLtext {
 }
 
 
-/* christian styling */
+
 div.christianexamples {
   vertical-align: top;
   display: inline-block;
@@ -453,8 +454,8 @@ img.christian3 {
   border-color: purple;
 }
 img.christian4 {
-  width: 500px;
-  height: 800px;
+  width: 800px;
+  height: 500px;
   padding: 4px;
   margin: 4px;
   border: solid 1px;
