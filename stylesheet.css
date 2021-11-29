@@ -444,7 +444,22 @@ img.christian2 {
   border: solid 1px;
   border-color: purple;
 }
-
+img.christian3 {
+  width: 500px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
+img.christian4 {
+  width: 500px;
+  height: 800px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
 /* responsive styling for mobile browsing */
 
 /* when screen is 600px or less apply changes */
