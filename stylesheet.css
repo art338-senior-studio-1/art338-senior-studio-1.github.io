@@ -408,7 +408,58 @@ img.img-erica {
 }
 
 
+div.CLtext {
+  margin: 10px;
+  font-family: 'Oxygen';
+  color: white;
+  width: 600px;
+}
 
+
+/* christian styling */
+div.christianexamples {
+  vertical-align: top;
+  display: inline-block;
+  /*left: auto; added this*/
+  margin: 10px;
+  width: auto;
+  height: auto;
+  background-color: white;
+  color: white;
+  padding: 10px;
+}
+img.christian1 {
+  width: 773px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
+img.christian2 {
+  width: 773px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
+img.christian3 {
+  width: 773px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
+img.christian4 {
+  width: 773px;
+  height: 500px;
+  padding: 4px;
+  margin: 4px;
+  border: solid 1px;
+  border-color: purple;
+}
 /* responsive styling for mobile browsing */
 
 /* when screen is 600px or less apply changes */
